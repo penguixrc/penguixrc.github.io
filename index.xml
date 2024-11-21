@@ -6,8 +6,15 @@
     <description>Recent content on Penguixrc</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 23 Aug 2024 10:31:34 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 21 Nov 2024 17:28:02 -0300</lastBuildDate>
     <atom:link href="https://penguixrc.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cを学んだ経験</title>
+      <link>https://penguixrc.github.io/posts/learning-c/</link>
+      <pubDate>Thu, 21 Nov 2024 17:28:02 -0300</pubDate>
+      <guid>https://penguixrc.github.io/posts/learning-c/</guid>
+      <description>最近、『The C Programming Language』（Brian Kernighan と Dennis Ritchie）を読みました。とても素晴らしい経験でした。Cを学ぶきっかけは、Unixとその創始者（Brian Kernighan と Dennis Ritchie）への尊敬から始まり、また、Low Level LearningのYouTubeチャンネルも大きな影響を与えました。そのため、Cを学ぶことを決心しました。&#xA;Cを学ぶために最適な本として、K&amp;amp;Rの本が最も有名で信頼できると感じていました。そして今、その理由がよく理解できました。この本はCの創作者たちによって書かれているため、内容が正確で信頼性があります。また、構成が非常に分かりやすく、Unix的な哲学を反映した内容が魅力的です。&#xA;「Cは難しい」と言われることがありますが、私の経験ではそう感じませんでした。まず、if、for、whileなどの基本的な構文がShellスクリプトに似ているため、すぐに馴染むことができました。また、ポインタについても多くの人が難しいと言いますが、私はそれほど難しいとは思いませんでした。メモリの割り当て（allocation）も意外に簡単に感じ、思ったほど困難ではありませんでした。&#xA;Cはコンパイル言語であり、その高速さは非常に優れています。例えば、シェルスクリプトで書かれたneofetchと、Cで書かれたfastfetchを比較すると、fastfetchの方が圧倒的に速いことが分かります。この点において、Cのような低水準言語の性能は他の高水準言語に比べて非常に優れています。&#xA;私はもともと高水準言語（例えばPythonやJavaScript）があまり好きではありませんでしたが、Cを学んでみて、低水準言語の持つ利点を強く実感しました。高水準言語と比べて、Cではシステム全体をより深く理解できることが大きな魅力です。メモリ管理が手動で行われる点も、制御の自由度が高く、非常に興味深いと感じました。&#xA;シェルスクリプトにも独自の良さがあります。例えば、シェルでは異なるプログラムを組み合わせて、新たな機能を作り上げることができます。しかし、Cのようにパフォーマンスが求められる場面では、やはりコンパイル言語の方が優れた選択肢となります。&#xA;現在は他のテーマにも取り組んでいますが、Cの学習は今後も続けていきたいと考えています。Cを学んだことは、コンピュータの理解を深める助けとなり、プログラミングの新たな視点を提供してくれました。</description>
+    </item>
     <item>
       <title>Unix Philosophy</title>
       <link>https://penguixrc.github.io/posts/unix-philosophy/</link>
@@ -16,11 +23,18 @@
       <description>Unix Philosophy I&amp;#39;ve been exploring the history of Unix, and one concept that keeps coming up is the Unix philosophy. But what exactly is it?&#xA;To start, here&amp;#39;s a quote from &amp;#34;The UNIX Programming Environment&amp;#34;:&#xA;Even though the UNIX system introduces a number of innovative programs and techniques, no single program or idea makes it work well. Instead, what makes it effective is the approach to programming, a philosophy of using the computer.</description>
     </item>
     <item>
+      <title>Gallery</title>
+      <link>https://penguixrc.github.io/gallery/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://penguixrc.github.io/gallery/</guid>
+      <description>Some beautiful images.</description>
+    </item>
+    <item>
       <title>Library</title>
       <link>https://penguixrc.github.io/library/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://penguixrc.github.io/library/</guid>
-      <description>This is a collection of books I’ve read (or at least started reading).&#xA;Buddhism 選択本願念仏集 - 法然上人 仏教聖典 - 仏教伝道協会 観無量寿経 Collected Refutations of Heterodoxy - 蕅益智旭 Deus Destroyed - 不干斎ハビアン Heart Sutra with Commentary - 宣化 Honen The Buddhist Saint: Essential Writings and Official Biography - Joseph A. Fitzgerald (Editor) Laughing at Christianity - Kiyū Dōjin Lives of Great Monks and Nuns - 仏教伝道協会 佛說無量壽經 Mahayana Buddhism: The Doctrinal Foundations - Paul Williams मूलमध्यमककारिका - नागार्जुन 佛說阿彌陀經 和語灯録 - 法然上人 Confucianism 大學 - 曾子 中庸 - 子思 Deism The Age of Reason; Being an Investigation of True and Fabulous Theology - Thomas Paine Economy Economic Policy: Thoughts for Today and Tomorrow - Ludwig Heinrich Edler von Mises Exploitation Theory of Socialism-Communism: The Idea That All Unearned Income (Rent, Interest and Profit Involves Economic Injustice) - Eugen Böhm Ritter von Bawerk Metaphysics Παρμενίδης - Πλάτων Poetry Divine Comedy - Dante Alighieri Pop culture The Moe Manifesto: An Insider&amp;#39;s Look at the Worlds of Manga, Anime, and Gaming - Patrick W.</description>
+      <description>This is a collection of books I’ve read (or at least started reading).&#xA;Buddhism 選択本願念仏集 - 法然上人 仏教聖典 - 仏教伝道協会 観無量寿経 Heart Sutra with Commentary - 宣化 Honen The Buddhist Saint: Essential Writings and Official Biography - Joseph A. Fitzgerald (Editor) Lives of Great Monks and Nuns - 仏教伝道協会 佛說無量壽經 Mahayana Buddhism: The Doctrinal Foundations - Paul Williams मूलमध्यमककारिका - नागार्जुन 佛說阿彌陀經 和語灯録 - 法然上人 Confucianism 大學 - 曾子 中庸 - 子思 Christianity Collected Refutations of Heterodoxy - 蕅益智旭 Deus Destroyed - 不干斎ハビアン Laughing at Christianity - Kiyū Dōjin Deism The Age of Reason; Being an Investigation of True and Fabulous Theology - Thomas Paine Economy Economic Policy: Thoughts for Today and Tomorrow - Ludwig Heinrich Edler von Mises Exploitation Theory of Socialism-Communism: The Idea That All Unearned Income (Rent, Interest and Profit Involves Economic Injustice) - Eugen Böhm Ritter von Bawerk Metaphysics Παρμενίδης - Πλάτων Poetry Divine Comedy - Dante Alighieri Pop culture The Moe Manifesto: An Insider&amp;#39;s Look at the Worlds of Manga, Anime, and Gaming - Patrick W.</description>
     </item>
   </channel>
 </rss>
